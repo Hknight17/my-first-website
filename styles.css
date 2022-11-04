@@ -1,0 +1,12 @@
+* {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-size:60px;
+}
+.subtitle {
+  color: #7E4F44;
+}
+#apple{
+  color:green;
+}
